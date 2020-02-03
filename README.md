@@ -66,7 +66,7 @@ Start programming. Choose one type of employee to create and test drive that cla
 Give Stretch Tasks a shot **ONLY** after requirements have been met. Completion of stretch tasks won't give you any extra credit. I suggest using feature branches to implement Stretch Tasks after requirements are finished.
 
 - Stretch task: Add a tick method that changes `HEALTH_LEVEL`, number of patients Nurse is taking care of, toggles whether Receptionist is on the phone, and toggles whether Janitor is sweeping.
-- Stretch task: Some Employees are medical professionals and some are not. How can we group them together as to not duplicate code?
+- Stretch task: Some Employee are medical professionals and some are not. How can we group them together as to not duplicate code?
 - Stretch task: The hospital, is much like a patient too. Like patients, it has it own needs: Bills, Cleanliness, Guests, and the like. How can we use our staff to make sure the needs of the hospital are met?
 - Stretch task: Tina is an `EmergencyDispatcher`. She is a trained medical professional and a first responder. She also has great people skills and can answer calls and manage what ambulance gets sent to a situation. She sometimes joins the crew and responds to calls on the fly. Add her as an employee and give her the proper functionality. This job pays 45,000.
 - Stretch task: Through user input, type search for an employee by name and access their info/what they are doing
